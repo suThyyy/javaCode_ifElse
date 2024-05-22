@@ -13,5 +13,6 @@ public class B27 {
         Scanner input = new Scanner(System.in);
         float a = input.nextFloat();
         System.out.println(Math.round(a));
+        System.out.println("dung  oc cho");
     }
 }
